@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [ "datasource","datatypes"]
+
+[workspace.dependencies]
+arrow = "54.2.0"
